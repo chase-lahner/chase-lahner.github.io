@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I'm Chase, a sophmore computer science major at the University of Pittsburgh.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Where I'm From
 
-What else do you need?
+Although I was born in Texas, I was raised in Wisconsin and now attend college in Pennsylvania. 
 
-### My story
+## Interests
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I love anything outdoorsy, including backpacking, camping, mountain biking, etc. etc. I also love to read, play video games, and spend quality time with friends.
+
+
